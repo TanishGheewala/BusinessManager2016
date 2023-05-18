@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# Tanish Gheewala IB Computer Science IA
-# Business Manager
+# Business Manager Final
 
 # Importing required libraries and defining global variables
 import os
