@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 
-# Tanish Gheewala IB Computer Science IA
 # Business Manager Legacy Version 1.43.1
 
 '''
