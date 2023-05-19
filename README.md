@@ -3,9 +3,12 @@ This is a demo project not intended for actual usage. It was originally created 
 
 
 **Requirements:**
-1. Ability to read. You can download it at https://steamcommunity.com/workshop/filedetails/?id=2501830659.
-2. Tkinter & appJar must be installed. It comes bundled with the program, but you can download it at http://appjar.info/Install/.
-3. Python must be installed. The latest version is recommended. You can download it at https://www.python.org/downloads/.
+1. Ability to read. 
+    You can download it at https://steamcommunity.com/workshop/filedetails/?id=2501830659.
+2. Tkinter & appJar must be installed. 
+    It comes bundled with the program, but you can download it at http://appjar.info/Install/.
+3. Python must be installed. 
+    The latest version is recommended. You can download it at https://www.python.org/downloads/.
 
 
 **How to run program? Either:**
